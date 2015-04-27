@@ -1,12 +1,11 @@
 body{
-	background: #55acee;
+	background: rgb(90, 129, 211);
 }
-
 
 #searcharea {
 	margin: 0 auto;
 	text-align: center;
-	background: #BF996B;
+	background: #55acee;;
 	padding: 10px;
 	width: 30%;
 	-webkit-border-radius: 10px 10px 0 0;
